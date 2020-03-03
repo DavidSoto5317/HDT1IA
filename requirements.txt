@@ -74,8 +74,6 @@ prompt-toolkit==3.0.3
 Pygments==2.5.2
 pyrsistent==0.15.7
 python-dateutil==2.8.1
-pywin32==227
-pywinpty==0.5.7
 pyzmq==19.0.0
 qtconsole==4.7.0
 QtPy==1.9.0
